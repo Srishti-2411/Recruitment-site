@@ -1,0 +1,58 @@
+/* Reset default margins and paddings */
+/* ... */
+
+/* Set default font family and size */
+/* ... */
+
+/* Header styles */
+/* ... */
+
+/* Main content styles */
+main {
+    padding: 20px;
+}
+
+/* Job Application Form styles */
+.apply-form {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.apply-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.apply-form form {
+    display: flex;
+    flex-direction: column;
+}
+
+.apply-form label {
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.apply-form input,
+.apply-form textarea {
+    padding: 8px;
+    margin-bottom: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.apply-form button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.apply-form button:hover {
+    background-color: #0056b3;
+}
+
+/* Footer styles */
+/*

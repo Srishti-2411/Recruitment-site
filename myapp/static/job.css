@@ -1,0 +1,61 @@
+/* Reset default margins and paddings */
+/* ... */
+
+/* Set default font family and size */
+/* ... */
+
+/* Header styles */
+/* ... */
+
+/* Main content styles */
+/* ... */
+
+/* Job Listings styles */
+.job-listings {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.job-listings h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.job-listings ul {
+    list-style: none;
+    padding: 0;
+}
+
+.job-listings li {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.job-listings li h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.job-listings li p {
+    margin-bottom: 5px;
+}
+
+/* Apply Now button styles */
+.btn-apply {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.btn-apply:hover {
+    background-color: #0056b3;
+}
+
+/* Footer styles */
+/* ... */
+
